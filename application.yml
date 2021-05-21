@@ -7,4 +7,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8671/eureka 
       
-database.name: oracle      
+database:
+   name: oracle      
